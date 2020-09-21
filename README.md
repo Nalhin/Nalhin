@@ -2,6 +2,11 @@
 
 <img src="https://media1.tenor.com/images/3b1f9c571d90a456a3f415920a7a314d/tenor.gif?itemid=11699455" />
 
+## Leetcode 
+[![ranking](https://lc.coding.gs/v1/ranking/nalhin.svg)](https://leetcode.com/nalhin/)
+[![solved count](https://lc.coding.gs/v1/solved/nalhin.svg)](https://leetcode.com/nalhin/)
+[![solved percentage](https://lc.coding.gs/v1/solved-rate/nalhin.svg)](https://leetcode.com/nalhin/)
+[![accepeted rate](https://lc.coding.gs/v1/accepted-rate/nalhin.svg)](https://leetcode.com/nalhin/)
 <!--
 **Nalhin/Nalhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
