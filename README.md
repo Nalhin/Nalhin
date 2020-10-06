@@ -11,19 +11,18 @@
 [![Twitter](https://img.shields.io/badge/@KrzysztofOlipra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/KrzysztofOlipra)
 
 * 👨‍🎓 CS student 
-* 🧹 Clean code evangelist 
 * 📂 Open source enthusiast 
 * 💻 Arch Linux fanboy 
-* 🐈 Cat person 
 
 <details>
 <summary>📈 Gitub Stats</summary>
+&nbsp;
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Nalhin&count_private=true,show_icons=true)](https://github.com/nalhin)
 
 </details>
 
-## Programming
+## Languages 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=TypeScript&logoColor=007acc)
@@ -49,12 +48,9 @@
 
 ## My articles
 
-* [13 reasons why you shouldn't use NativeScript](/blog/posts/13-reason-why-you-shouldnt-use-nativescript)
-* [React Native vs NativeScript - goods and bads](/blog/posts/react-native-vs-nativescript-goods-and-bads)
-
-## Open Source contributions
-
-[![factory.io](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=factory.io)](https://github.com/Nalhin/factory.io)
+* []
+* [13 reasons why you shouldn't use NativeScript](/blog/posts/13-reason-why-you-shouldnt-use-nativescript/13-reasons-why-you-shouldnt-use-nativescript.md)
+* [React Native vs NativeScript - goods and bads](/blog/posts/react-native-vs-nativescript-goods-and-bads/react-native-vs-nativescript-goods-and-bads.md)
 
 ## My projects
 
@@ -84,5 +80,12 @@
 ### Book Exchange
 
 [![Book Exchange](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=BookExchange)](https://github.com/Nalhin/BookExchange)
+
+</details>
+
+## Bookshelf
+
+<details>
+<summary>📜 Books I've read</summary>
 
 </details>
