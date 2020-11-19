@@ -36,6 +36,7 @@
 
 <details>
 <summary>📈 Weekly Stats</summary>
+&nbsp;
 
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nalhin&layout=compact)](https://github.com/Nalhin)
 
@@ -82,6 +83,7 @@
 
 <details>
 <summary>📜 Books I've read</summary>
+&nbsp;
 
 * **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert C. Martin
 * **Refactoring Improving the Design of Existing Code** by Martin Fowler, with Kent Beck
