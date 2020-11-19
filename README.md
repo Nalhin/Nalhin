@@ -39,18 +39,9 @@
 
 ## LeetCode
  
-[![Ranking](https://lc.coding.gs/v1/ranking/nalhin.svg)](https://leetcode.com/nalhin/)
-[![Solved count](https://lc.coding.gs/v1/solved/nalhin.svg)](https://leetcode.com/nalhin/)
-[![Solved percentage](https://lc.coding.gs/v1/solved-rate/nalhin.svg)](https://leetcode.com/nalhin/)
-[![Acceptance rate](https://lc.coding.gs/v1/accepted-rate/nalhin.svg)](https://leetcode.com/nalhin/)
+[Profile](https://leetcode.com/nalhin/)
 
-[![Solutions](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=LeetCode)](https://github.com/Nalhin/LeetCode)
-
-## My articles
-
-* []
-* [13 reasons why you shouldn't use NativeScript](/blog/posts/13-reason-why-you-shouldnt-use-nativescript/13-reasons-why-you-shouldnt-use-nativescript.md)
-* [React Native vs NativeScript - goods and bads](/blog/posts/react-native-vs-nativescript-goods-and-bads/react-native-vs-nativescript-goods-and-bads.md)
+[![Solutions repository](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=LeetCode)](https://github.com/Nalhin/LeetCode)
 
 ## My projects
 
@@ -87,5 +78,12 @@
 
 <details>
 <summary>📜 Books I've read</summary>
+
+* "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
+* "Refactoring Improving the Design of Existing Code" by Martin Fowler, with Kent Beck
+* "Test-Driven Development: By Example" by Kent Beck
+* "Effective Java" by Joshua Bloch
+* "Effective TypeScript: 62 Specific Ways to Improve Your TypeScript" by Dan Vanderkam
+* "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript" by David Herman
 
 </details>
