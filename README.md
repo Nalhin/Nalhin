@@ -14,6 +14,10 @@
 * 📂 Open source enthusiast 
 * 💻 Arch Linux fanboy 
 
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yv9c2h6kzblv3x1x1s7pzbhqp&cover_image=true&theme=novatorem)
+
+## Github
+
 <details>
 <summary>📈 Gitub Stats</summary>
 &nbsp;
@@ -28,12 +32,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=TypeScript&logoColor=007acc)
 ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=f89820)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalhin)](https://github.com/Nalhin)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalhin)](https://github.com/Nalhin)
 
 <details>
 <summary>📈 Weekly Stats</summary>
 
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nalhin)](https://github.com/Nalhin)
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nalhin&layout=compact)](https://github.com/Nalhin)
 
 </details>
 
@@ -79,11 +83,11 @@
 <details>
 <summary>📜 Books I've read</summary>
 
-* "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
-* "Refactoring Improving the Design of Existing Code" by Martin Fowler, with Kent Beck
-* "Test-Driven Development: By Example" by Kent Beck
-* "Effective Java" by Joshua Bloch
-* "Effective TypeScript: 62 Specific Ways to Improve Your TypeScript" by Dan Vanderkam
-* "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript" by David Herman
+* **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert C. Martin
+* **Refactoring Improving the Design of Existing Code** by Martin Fowler, with Kent Beck
+* **Test-Driven Development: By Example** by Kent Beck
+* **Effective Java** by Joshua Bloch
+* **Effective TypeScript: 62 Specific Ways to Improve Your TypeScript** by Dan Vanderkam
+* **Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript** by David Herman
 
 </details>
