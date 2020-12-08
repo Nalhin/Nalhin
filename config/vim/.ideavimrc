@@ -12,7 +12,7 @@ nmap <leader>l :action Forward<cr>
 nmap <leader>L :action RecentLocations<cr>
 nmap <leader>g :action GotoDeclaration<cr>
 nmap <leader>u :action FindUsages<cr>
-nmap <leader>f :action GotoFile<cr>
+nmap <leader>F :action GotoFile<cr>
 nmap <leader>c :action GotoClass<cr>
 nmap <leader>s :action GotoSymbol<cr>
 nmap <leader>; :action FileStructurePopup<cr>
@@ -25,6 +25,7 @@ nmap <leader>t :action GotoTest<cr>
 nmap <leader>p :action JumpToLastWindow<cr>
 nmap <leader>b :action ShowBookmarks<cr>
 nmap <leader>a :action RecentChangedFiles<cr>
+nmap <leader>f :action Find<cr>
 
 " Errors
 nmap <leader>x :action GotoNextError<cr>
@@ -74,4 +75,3 @@ nmap ,T :action RerunFailedTests<cr>
 
 nmap zC :action CollapseRegionRecursively<CR>
 nmap zO :action ExpandRegionRecursively<CR>
-
