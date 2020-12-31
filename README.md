@@ -10,9 +10,9 @@
 [![LinkedIn](https://img.shields.io/badge/Krzysztof%20Olipra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-olipra)
 [![Twitter](https://img.shields.io/badge/@KrzysztofOlipra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/KrzysztofOlipra)
 
-* 👨‍🎓 CS student 
-* 📂 Open source enthusiast 
-* 💻 Arch Linux fanboy 
+* 👨‍🎓 CS student
+* 📂 Open source enthusiast
+* 💻 Arch Linux fanboy
 
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yv9c2h6kzblv3x1x1s7pzbhqp&cover_image=true&theme=novatorem)
 
@@ -26,7 +26,7 @@
 
 </details>
 
-## Languages 
+## Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=TypeScript&logoColor=007acc)
@@ -43,7 +43,7 @@
 </details>
 
 ## LeetCode
- 
+
 [Profile](https://leetcode.com/nalhin/)
 
 [![Solutions repository](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=LeetCode)](https://github.com/Nalhin/LeetCode)
@@ -52,6 +52,10 @@
 
 <details>
 <summary>📜 Show projects</summary>
+
+### Finance Calculator
+
+[![Finance Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=FinanceCalculator)](https://github.com/Nalhin/FinanceCalculator)
 
 ### Memes Generator
 
