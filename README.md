@@ -53,6 +53,10 @@
 <details>
 <summary>📜 Show projects</summary>
 
+### Movies
+
+[![Movies](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=Movies)](https://github.com/Nalhin/Movies)
+
 ### Finance Calculator
 
 [![Finance Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=FinanceCalculator)](https://github.com/Nalhin/FinanceCalculator)
@@ -61,9 +65,9 @@
 
 [![Memes Generator](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=MemesGenerator)](https://github.com/Nalhin/MemesGenerator)
 
-### Tutoring
+### Social Auth
 
-[![Tutoring](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=Tutoring)](https://github.com/Nalhin/Tutoring)
+[![Social Auth](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=SocialAuth)](https://github.com/Nalhin/SocialAuth)
 
 ### Trending Near Me
 
@@ -88,7 +92,7 @@
 <details>
 <summary>📜 Books I've read</summary>
 &nbsp;
-
+* **Clean Architecture: A Craftsman's Guide to Software Structure and Design** by Robert C. Martin
 * **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert C. Martin
 * **Refactoring Improving the Design of Existing Code** by Martin Fowler, with Kent Beck
 * **Test-Driven Development: By Example** by Kent Beck
