@@ -1,12 +1,7 @@
 ## 👋
 
-<p align="center">
-  <img src="https://media1.tenor.com/images/3b1f9c571d90a456a3f415920a7a314d/tenor.gif?itemid=11699455" />
-</p>
-
 ## About
 
-[![Mail](https://img.shields.io/badge/contact@krzysztofolipra.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@krzysztofolipra.com)
 [![LinkedIn](https://img.shields.io/badge/Krzysztof%20Olipra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-olipra)
 [![Twitter](https://img.shields.io/badge/@KrzysztofOlipra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/KrzysztofOlipra)
 
@@ -14,14 +9,11 @@
 * 📂 Open source enthusiast
 * 💻 Arch Linux fanboy
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yv9c2h6kzblv3x1x1s7pzbhqp&cover_image=true&theme=novatorem)
-
 ## Github
 
 <details>
 <summary>📈 Gitub Stats</summary>
 &nbsp;
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Nalhin&count_private=true,show_icons=true)](https://github.com/nalhin)
 
 </details>
@@ -37,7 +29,6 @@
 <details>
 <summary>📈 Weekly Stats</summary>
 &nbsp;
-
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nalhin&layout=compact)](https://github.com/Nalhin)
 
 </details>
