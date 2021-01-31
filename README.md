@@ -1,5 +1,3 @@
-## 👋
-
 ## About
 
 [![LinkedIn](https://img.shields.io/badge/Krzysztof%20Olipra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-olipra)
@@ -14,7 +12,7 @@
 <details>
 <summary>📈 Gitub Stats</summary>
 &nbsp;
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Nalhin&count_private=true,show_icons=true)](https://github.com/nalhin)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Nalhin&count_private=true,show_icons=true)](https://github.com/nalhin)]
 
 </details>
 
