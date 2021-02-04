@@ -74,7 +74,7 @@
 
 </details>
 
-## Bookshelf
+## Reading List
 
 <details>
 <summary>📜 Reading List</summary>
