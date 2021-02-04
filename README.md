@@ -12,6 +12,7 @@
 <details>
 <summary>📈 Gitub Stats</summary>
 &nbsp;
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Nalhin&count_private=true,show_icons=true)](https://github.com/nalhin)]
 
 </details>
@@ -27,6 +28,7 @@
 <details>
 <summary>📈 Weekly Stats</summary>
 &nbsp;
+
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nalhin&layout=compact)](https://github.com/Nalhin)
 
 </details>
@@ -49,10 +51,6 @@
 ### Finance Calculator
 
 [![Finance Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=FinanceCalculator)](https://github.com/Nalhin/FinanceCalculator)
-
-### Memes Generator
-
-[![Memes Generator](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=MemesGenerator)](https://github.com/Nalhin/MemesGenerator)
 
 ### Social Auth
 
@@ -79,8 +77,16 @@
 ## Bookshelf
 
 <details>
-<summary>📜 Books I've read</summary>
+<summary>📜 Reading List</summary>
 &nbsp;
+
+In progress:
+
+* **Domain-Driven Design: Tackling Complexity in the Heart of Software** by Eric Evans
+
+Read:
+
+* **Design Patterns: Elements of Reusable Object-Oriented Software** by the Gang of Four (GoF)
 * **Clean Architecture: A Craftsman's Guide to Software Structure and Design** by Robert C. Martin
 * **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert C. Martin
 * **Refactoring Improving the Design of Existing Code** by Martin Fowler, with Kent Beck
