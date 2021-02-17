@@ -5,7 +5,7 @@
 
 * 👨‍🎓 CS student
 * 📂 Open source enthusiast
-* 💻 Arch Linux fanboy
+* 💻 Arch Linux
 
 ## Github
 
