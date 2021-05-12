@@ -13,7 +13,7 @@
 <summary>📈 Stats</summary>
 &nbsp;
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Nalhin&count_private=true,show_icons=true)](https://github.com/nalhin)]
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Nalhin&count_private=true,show_icons=true)](https://github.com/nalhin)
 
 </details>
 
@@ -44,6 +44,10 @@
 <details>
 <summary>📜 Show projects</summary>
 
+### Navigation
+
+[![Navigation](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=Navigation)](https://github.com/Nalhin/Navigation)
+
 ### Movies
 
 [![Movies](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=Movies)](https://github.com/Nalhin/Movies)
@@ -71,28 +75,5 @@
 ### Book Exchange
 
 [![Book Exchange](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=BookExchange)](https://github.com/Nalhin/BookExchange)
-
-</details>
-
-## Reading List
-
-<details>
-<summary>📜 Reading List</summary>
-&nbsp;
-
-In progress:
-
-* **Domain-Driven Design: Tackling Complexity in the Heart of Software** by Eric Evans
-
-Read:
-
-* **Design Patterns: Elements of Reusable Object-Oriented Software** by the Gang of Four (GoF)
-* **Clean Architecture: A Craftsman's Guide to Software Structure and Design** by Robert C. Martin
-* **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert C. Martin
-* **Refactoring Improving the Design of Existing Code** by Martin Fowler, with Kent Beck
-* **Test-Driven Development: By Example** by Kent Beck
-* **Effective Java** by Joshua Bloch
-* **Effective TypeScript: 62 Specific Ways to Improve Your TypeScript** by Dan Vanderkam
-* **Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript** by David Herman
 
 </details>
