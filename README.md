@@ -19,9 +19,9 @@
 
 ## Languages
 
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=f89820)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=TypeScript&logoColor=007acc)
-![Java](https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=f89820)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalhin)](https://github.com/Nalhin)
 
