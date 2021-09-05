@@ -3,9 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/Krzysztof%20Olipra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-olipra)
 [![Twitter](https://img.shields.io/badge/@KrzysztofOlipra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/KrzysztofOlipra)
 
-* 👨‍🎓 CS student
 * 📂 Open source enthusiast
-* 💻 Arch Linux
+* 💻 Arch Linux/Mac
 
 ## Github
 
