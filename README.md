@@ -2,9 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/Krzysztof%20Olipra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-olipra)
 [![Twitter](https://img.shields.io/badge/@KrzysztofOlipra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/KrzysztofOlipra)
+[![Youtube](https://img.shields.io/badge/@KrzysztofOlipra-FF0000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=IceDA-gvo3M&list=PL3oSUFCABl3mnhxsPoU6UHThMoy7c1HII)
 
-* 📂 Open source enthusiast
-* 💻 Arch Linux/Mac
 
 ## Github
 
@@ -18,25 +17,20 @@
 
 ## Languages
 
-![Java](https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=f89820)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=TypeScript&logoColor=007acc)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalhin)](https://github.com/Nalhin)
-
-<details>
-<summary>📈 Weekly Stats</summary>
-&nbsp;
-
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nalhin&layout=compact)](https://github.com/Nalhin)
-
-</details>
 
 ## LeetCode
 
 [Profile](https://leetcode.com/nalhin/)
 
 [![Solutions repository](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=LeetCode)](https://github.com/Nalhin/LeetCode)
+
+## CodeForces
+
+[Profile](https://codeforces.com/profile/Nalhin)
+
+[![Solutions repository](https://github-readme-stats.vercel.app/api/pin/?username=Nalhin&repo=CodeForces)](https://github.com/Nalhin/CodeForces)
+
 
 ## My projects
 
